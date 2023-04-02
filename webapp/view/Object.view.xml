@@ -1,0 +1,13 @@
+<mvc:View
+    controllerName="com.test.parentapp.controller.Object"
+    xmlns="sap.m"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns:semantic="sap.f.semantic">
+
+   <Page id="page" title="in detail page">
+        <VBox id="box">
+        
+        </VBox>
+    </Page>
+
+</mvc:View>
